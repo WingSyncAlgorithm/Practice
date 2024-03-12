@@ -1,4 +1,3 @@
 github desktop練習:
-1.新增一個branch，添加一個文件，完成commit、push
-(commit massage要打)
+1.新增一個branch，publish分支，添加一個文件，完成commit、push
 2.將branch hello merge進你的分支，發起pull request，讓main分支合併你的的分支
